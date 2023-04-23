@@ -13,4 +13,4 @@ Welcome to my GitHub page! I'm a student and on this page you'll find my persona
 ### ✅ Completed Projects
 1. VK group rating system for the LDPR party in Volgograd region.
 
-If you have any questions or suggestions, feel free to contact me. Thanks for visiting my GitHub page!
+If you have any questions or suggestions, feel free to contact me. Thanks for visiting my GitHub page! 💚
