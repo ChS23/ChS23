@@ -9,5 +9,6 @@ Welcome to my GitHub page! I'm a student and on this page you'll find my persona
 3. Simulator application for correlating variable names with data in memory.
 ### 📌Upcoming Projects
 1. Modeling of VANET wireless networks.
+2. Website for the ARContest.
 
 If you have any questions or suggestions, feel free to contact me. Thanks for visiting my GitHub page!
